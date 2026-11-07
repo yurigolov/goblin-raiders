@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_note"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.robbed.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.robbed.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:root"
+}

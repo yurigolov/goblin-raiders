@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "goblinraiders:item/concealment_amulet"
+  }
+}

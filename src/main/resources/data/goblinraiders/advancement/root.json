@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_sword"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.root.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/packed_mud.png"
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:leather_boots"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.night_thief.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.night_thief.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:find_village"
+}

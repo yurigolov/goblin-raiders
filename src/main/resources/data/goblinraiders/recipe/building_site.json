@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "R",
+    "S",
+    "S"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "goblinraiders:building_site",
+    "count": 1
+  }
+}

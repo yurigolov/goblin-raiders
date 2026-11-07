@@ -1,0 +1,34 @@
+{
+  "structures": [
+    {
+      "structure": "goblinraiders:goblin_camp",
+      "weight": 3
+    },
+    {
+      "structure": "goblinraiders:goblin_village",
+      "weight": 4
+    },
+    {
+      "structure": "goblinraiders:goblin_market",
+      "weight": 3
+    },
+    {
+      "structure": "goblinraiders:goblin_warcamp",
+      "weight": 2
+    },
+    {
+      "structure": "goblinraiders:goblin_megavillage",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 36,
+    "separation": 12,
+    "salt": 739164852,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 12
+    }
+  }
+}

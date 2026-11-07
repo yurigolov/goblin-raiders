@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_coin"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.settler_trade.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.settler_trade.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:settler_talk"
+}

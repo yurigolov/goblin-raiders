@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_crown"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.regicide.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.regicide.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "goblinraiders:goblin_king"
+        }
+      }
+    }
+  },
+  "parent": "goblinraiders:megavillage",
+  "rewards": {
+    "experience": 100
+  }
+}

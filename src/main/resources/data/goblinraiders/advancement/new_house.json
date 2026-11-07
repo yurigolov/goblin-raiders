@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:building_site"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.new_house.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.new_house.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:hamlet"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:vassal_charter"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.vassal.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.vassal.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:megavillage"
+}

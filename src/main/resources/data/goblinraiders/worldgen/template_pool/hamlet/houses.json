@@ -1,0 +1,131 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/home_small",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/home_small_2",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/home_family",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/home_tent",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/farm",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/farm_wheat",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/lumber_yard",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/grove",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/mine_adit",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/builder_yard",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/kitchen",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/site_hut",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/site_big",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "goblinraiders:hamlet/site_garden",
+        "processors": "goblinraiders:goblin_village",
+        "projection": "rigid"
+      }
+    }
+  ]
+}

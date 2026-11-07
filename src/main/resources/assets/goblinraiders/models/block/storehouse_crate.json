@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "goblinraiders:block/storehouse_crate_side",
+    "top": "goblinraiders:block/storehouse_crate_top",
+    "bottom": "goblinraiders:block/storehouse_crate_top"
+  }
+}

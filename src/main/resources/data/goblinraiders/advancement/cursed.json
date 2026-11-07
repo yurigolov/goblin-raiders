@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:fermented_spider_eye"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.cursed.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.cursed.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "goblinraiders:goblin_curse": {}
+        }
+      }
+    }
+  },
+  "parent": "goblinraiders:kill_goblin"
+}

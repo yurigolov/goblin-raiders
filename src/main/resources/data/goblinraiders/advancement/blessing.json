@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:amethyst_shard"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.blessing.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.blessing.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:sage"
+}

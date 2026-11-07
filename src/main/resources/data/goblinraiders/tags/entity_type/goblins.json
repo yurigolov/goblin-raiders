@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "goblinraiders:small_goblin",
+    "goblinraiders:ruthless_goblin",
+    "goblinraiders:neutral_goblin",
+    "goblinraiders:giant_goblin",
+    "goblinraiders:goblin_trader",
+    "goblinraiders:goblin_elder",
+    "goblinraiders:crazy_goblin",
+    "goblinraiders:goblin_shaman",
+    "goblinraiders:goblin_king"
+  ]
+}

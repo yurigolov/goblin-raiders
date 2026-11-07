@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:loot_sack"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.intercept.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.intercept.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:robbed"
+}

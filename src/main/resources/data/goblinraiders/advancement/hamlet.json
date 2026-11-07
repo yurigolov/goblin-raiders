@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:wheat"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.hamlet.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.hamlet.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "structures": "#goblinraiders:goblin_hamlets"
+          }
+        }
+      }
+    }
+  },
+  "parent": "goblinraiders:root"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_child_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.child_talk.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.child_talk.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:find_village"
+}

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:concealment_amulet"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.disguise.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.disguise.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "goblinraiders:goblin_disguise": {}
+        }
+      }
+    }
+  },
+  "parent": "goblinraiders:root"
+}

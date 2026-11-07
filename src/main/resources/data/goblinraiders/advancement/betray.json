@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_dagger"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.betray.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.betray.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:vassal"
+}

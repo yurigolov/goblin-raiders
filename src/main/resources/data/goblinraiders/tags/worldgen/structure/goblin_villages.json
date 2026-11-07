@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "goblinraiders:goblin_camp",
+    "goblinraiders:goblin_village",
+    "goblinraiders:goblin_market",
+    "goblinraiders:goblin_warcamp",
+    "goblinraiders:goblin_megavillage"
+  ]
+}

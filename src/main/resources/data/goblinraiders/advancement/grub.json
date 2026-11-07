@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "goblinraiders:goblin_grub"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.grub.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.grub.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "goblinraiders:goblin_grub"
+        }
+      }
+    }
+  },
+  "parent": "goblinraiders:trade"
+}

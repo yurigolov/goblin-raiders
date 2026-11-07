@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "goblinraiders:goblin_helmet",
+    "goblinraiders:goblin_chestplate",
+    "goblinraiders:goblin_leggings",
+    "goblinraiders:goblin_boots"
+  ]
+}

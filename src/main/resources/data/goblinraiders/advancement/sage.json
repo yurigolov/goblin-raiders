@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:book"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.sage.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.sage.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:root"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "goblinraiders:block/goblin_stash_top",
+    "front": "goblinraiders:block/goblin_stash_front",
+    "side": "goblinraiders:block/goblin_stash_side",
+    "particle": "goblinraiders:block/goblin_stash_side"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "goblinraiders:block/goblin_stash"
+    },
+    "facing=east": {
+      "model": "goblinraiders:block/goblin_stash",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "goblinraiders:block/goblin_stash",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "goblinraiders:block/goblin_stash",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:note_block"
+    },
+    "title": {
+      "translate": "advancements.goblinraiders.war_drums.title"
+    },
+    "description": {
+      "translate": "advancements.goblinraiders.war_drums.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "goblinraiders:find_village"
+}

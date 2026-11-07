@@ -1,0 +1,744 @@
+{
+  "entity.goblin.ambient": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_ambient_1"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_2"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_3"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_4"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_5"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_6"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_7"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_8"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_9"
+      },
+      {
+        "name": "goblinraiders:goblin_ambient_10"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.ambient"
+  },
+  "entity.goblin.talk": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_talk_1"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_2"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_3"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_4"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_5"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_6"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_7"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_8"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_9"
+      },
+      {
+        "name": "goblinraiders:goblin_talk_10"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.talk"
+  },
+  "entity.goblin.laugh": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_laugh_1"
+      },
+      {
+        "name": "goblinraiders:goblin_laugh_2"
+      },
+      {
+        "name": "goblinraiders:goblin_laugh_3"
+      },
+      {
+        "name": "goblinraiders:goblin_laugh_4"
+      },
+      {
+        "name": "goblinraiders:goblin_laugh_5"
+      },
+      {
+        "name": "goblinraiders:goblin_laugh_6"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.laugh"
+  },
+  "entity.goblin.angry": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_angry_1"
+      },
+      {
+        "name": "goblinraiders:goblin_angry_2"
+      },
+      {
+        "name": "goblinraiders:goblin_angry_3"
+      },
+      {
+        "name": "goblinraiders:goblin_angry_4"
+      },
+      {
+        "name": "goblinraiders:goblin_angry_5"
+      },
+      {
+        "name": "goblinraiders:goblin_angry_6"
+      },
+      {
+        "name": "goblinraiders:goblin_angry_7"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.angry"
+  },
+  "entity.goblin.hurt": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_hurt_1"
+      },
+      {
+        "name": "goblinraiders:goblin_hurt_2"
+      },
+      {
+        "name": "goblinraiders:goblin_hurt_3"
+      },
+      {
+        "name": "goblinraiders:goblin_hurt_4"
+      },
+      {
+        "name": "goblinraiders:goblin_hurt_5"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.hurt"
+  },
+  "entity.goblin.death": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_death_1"
+      },
+      {
+        "name": "goblinraiders:goblin_death_2"
+      },
+      {
+        "name": "goblinraiders:goblin_death_3"
+      },
+      {
+        "name": "goblinraiders:goblin_death_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.death"
+  },
+  "entity.goblin.yes": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_yes_1"
+      },
+      {
+        "name": "goblinraiders:goblin_yes_2"
+      },
+      {
+        "name": "goblinraiders:goblin_yes_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.yes"
+  },
+  "entity.goblin.no": {
+    "sounds": [
+      {
+        "name": "goblinraiders:goblin_no_1"
+      },
+      {
+        "name": "goblinraiders:goblin_no_2"
+      },
+      {
+        "name": "goblinraiders:goblin_no_3"
+      },
+      {
+        "name": "goblinraiders:goblin_no_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.no"
+  },
+  "entity.ruthless_goblin.ambient": {
+    "sounds": [
+      {
+        "name": "goblinraiders:ruthless_ambient_1"
+      },
+      {
+        "name": "goblinraiders:ruthless_ambient_2"
+      },
+      {
+        "name": "goblinraiders:ruthless_ambient_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ruthless_goblin.ambient"
+  },
+  "entity.ruthless_goblin.hurt": {
+    "sounds": [
+      {
+        "name": "goblinraiders:ruthless_hurt_1"
+      },
+      {
+        "name": "goblinraiders:ruthless_hurt_2"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ruthless_goblin.hurt"
+  },
+  "entity.ruthless_goblin.death": {
+    "sounds": [
+      {
+        "name": "goblinraiders:ruthless_death_1"
+      },
+      {
+        "name": "goblinraiders:ruthless_death_2"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ruthless_goblin.death"
+  },
+  "entity.giant_goblin.ambient": {
+    "sounds": [
+      {
+        "name": "goblinraiders:giant_ambient_1"
+      },
+      {
+        "name": "goblinraiders:giant_ambient_2"
+      },
+      {
+        "name": "goblinraiders:giant_ambient_3"
+      },
+      {
+        "name": "goblinraiders:giant_ambient_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.giant_goblin.ambient"
+  },
+  "entity.giant_goblin.roar": {
+    "sounds": [
+      {
+        "name": "goblinraiders:giant_roar_1"
+      },
+      {
+        "name": "goblinraiders:giant_roar_2"
+      },
+      {
+        "name": "goblinraiders:giant_roar_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.giant_goblin.roar"
+  },
+  "entity.giant_goblin.hurt": {
+    "sounds": [
+      {
+        "name": "goblinraiders:giant_hurt_1"
+      },
+      {
+        "name": "goblinraiders:giant_hurt_2"
+      },
+      {
+        "name": "goblinraiders:giant_hurt_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.giant_goblin.hurt"
+  },
+  "entity.giant_goblin.death": {
+    "sounds": [
+      {
+        "name": "goblinraiders:giant_death_1"
+      },
+      {
+        "name": "goblinraiders:giant_death_2"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.giant_goblin.death"
+  },
+  "entity.giant_goblin.attack": {
+    "sounds": [
+      {
+        "name": "goblinraiders:giant_attack_1"
+      },
+      {
+        "name": "goblinraiders:giant_attack_2"
+      },
+      {
+        "name": "goblinraiders:giant_attack_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.giant_goblin.attack"
+  },
+  "entity.goblin_trader.haggle": {
+    "sounds": [
+      {
+        "name": "goblinraiders:trader_haggle_1"
+      },
+      {
+        "name": "goblinraiders:trader_haggle_2"
+      },
+      {
+        "name": "goblinraiders:trader_haggle_3"
+      },
+      {
+        "name": "goblinraiders:trader_haggle_4"
+      },
+      {
+        "name": "goblinraiders:trader_haggle_5"
+      },
+      {
+        "name": "goblinraiders:trader_haggle_6"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_trader.haggle"
+  },
+  "entity.goblin_trader.yell": {
+    "sounds": [
+      {
+        "name": "goblinraiders:trader_yell_1"
+      },
+      {
+        "name": "goblinraiders:trader_yell_2"
+      },
+      {
+        "name": "goblinraiders:trader_yell_3"
+      },
+      {
+        "name": "goblinraiders:trader_yell_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_trader.yell"
+  },
+  "entity.goblin_elder.ambient": {
+    "sounds": [
+      {
+        "name": "goblinraiders:elder_ambient_1"
+      },
+      {
+        "name": "goblinraiders:elder_ambient_2"
+      },
+      {
+        "name": "goblinraiders:elder_ambient_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_elder.ambient"
+  },
+  "entity.goblin_elder.talk": {
+    "sounds": [
+      {
+        "name": "goblinraiders:elder_talk_1"
+      },
+      {
+        "name": "goblinraiders:elder_talk_2"
+      },
+      {
+        "name": "goblinraiders:elder_talk_3"
+      },
+      {
+        "name": "goblinraiders:elder_talk_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_elder.talk"
+  },
+  "entity.crazy_goblin.laugh": {
+    "sounds": [
+      {
+        "name": "goblinraiders:crazy_laugh_1"
+      },
+      {
+        "name": "goblinraiders:crazy_laugh_2"
+      },
+      {
+        "name": "goblinraiders:crazy_laugh_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.crazy_goblin.laugh"
+  },
+  "event.goblin_raid": {
+    "sounds": [
+      {
+        "name": "goblinraiders:raid_alarm"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_raid"
+  },
+  "entity.goblin_shaman.ambient": {
+    "sounds": [
+      {
+        "name": "goblinraiders:shaman_ambient_1"
+      },
+      {
+        "name": "goblinraiders:shaman_ambient_2"
+      },
+      {
+        "name": "goblinraiders:shaman_ambient_3"
+      },
+      {
+        "name": "goblinraiders:shaman_ambient_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_shaman.ambient"
+  },
+  "entity.goblin_shaman.spell": {
+    "sounds": [
+      {
+        "name": "goblinraiders:shaman_spell_1"
+      },
+      {
+        "name": "goblinraiders:shaman_spell_2"
+      },
+      {
+        "name": "goblinraiders:shaman_spell_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_shaman.spell"
+  },
+  "entity.goblin_king.ambient": {
+    "sounds": [
+      {
+        "name": "goblinraiders:king_ambient_1"
+      },
+      {
+        "name": "goblinraiders:king_ambient_2"
+      },
+      {
+        "name": "goblinraiders:king_ambient_3"
+      },
+      {
+        "name": "goblinraiders:king_ambient_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_king.ambient"
+  },
+  "entity.goblin_king.roar": {
+    "sounds": [
+      {
+        "name": "goblinraiders:king_roar_1"
+      },
+      {
+        "name": "goblinraiders:king_roar_2"
+      },
+      {
+        "name": "goblinraiders:king_roar_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_king.roar"
+  },
+  "entity.goblin.snore": {
+    "sounds": [
+      {
+        "name": "goblinraiders:snore_1"
+      },
+      {
+        "name": "goblinraiders:snore_2"
+      },
+      {
+        "name": "goblinraiders:snore_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.snore"
+  },
+  "entity.goblin.attack": {
+    "sounds": [
+      {
+        "name": "goblinraiders:grunt_1"
+      },
+      {
+        "name": "goblinraiders:grunt_2"
+      },
+      {
+        "name": "goblinraiders:grunt_3"
+      },
+      {
+        "name": "goblinraiders:grunt_4"
+      },
+      {
+        "name": "goblinraiders:grunt_5"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.attack"
+  },
+  "entity.goblin.celebrate": {
+    "sounds": [
+      {
+        "name": "goblinraiders:gloat_1"
+      },
+      {
+        "name": "goblinraiders:gloat_2"
+      },
+      {
+        "name": "goblinraiders:gloat_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.celebrate"
+  },
+  "entity.goblin.scared": {
+    "sounds": [
+      {
+        "name": "goblinraiders:squeal_1"
+      },
+      {
+        "name": "goblinraiders:squeal_2"
+      },
+      {
+        "name": "goblinraiders:squeal_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.scared"
+  },
+  "entity.goblin_child.giggle": {
+    "sounds": [
+      {
+        "name": "goblinraiders:giggle_1"
+      },
+      {
+        "name": "goblinraiders:giggle_2"
+      },
+      {
+        "name": "goblinraiders:giggle_3"
+      },
+      {
+        "name": "goblinraiders:giggle_4"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin_child.giggle"
+  },
+  "entity.goblin.loot_jingle": {
+    "sounds": [
+      {
+        "name": "goblinraiders:jingle_1",
+        "volume": 0.7
+      },
+      {
+        "name": "goblinraiders:jingle_2",
+        "volume": 0.7
+      },
+      {
+        "name": "goblinraiders:jingle_3",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.goblin.loot_jingle"
+  },
+  "ambient.goblin.war_drums": {
+    "sounds": [
+      {
+        "name": "goblinraiders:war_drums_1"
+      },
+      {
+        "name": "goblinraiders:war_drums_2"
+      },
+      {
+        "name": "goblinraiders:war_drums_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.war_drums"
+  },
+  "ambient.goblin.war_horn": {
+    "sounds": [
+      {
+        "name": "goblinraiders:war_horn_1"
+      },
+      {
+        "name": "goblinraiders:war_horn_2"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.war_horn"
+  },
+  "ambient.goblin.forge": {
+    "sounds": [
+      {
+        "name": "goblinraiders:forge_1"
+      },
+      {
+        "name": "goblinraiders:forge_2"
+      },
+      {
+        "name": "goblinraiders:forge_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.forge"
+  },
+  "ambient.goblin.sharpen": {
+    "sounds": [
+      {
+        "name": "goblinraiders:sharpen_1"
+      },
+      {
+        "name": "goblinraiders:sharpen_2"
+      },
+      {
+        "name": "goblinraiders:sharpen_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.sharpen"
+  },
+  "ambient.goblin.chop": {
+    "sounds": [
+      {
+        "name": "goblinraiders:chop_1"
+      },
+      {
+        "name": "goblinraiders:chop_2"
+      },
+      {
+        "name": "goblinraiders:chop_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.chop"
+  },
+  "ambient.goblin.chatter": {
+    "sounds": [
+      {
+        "name": "goblinraiders:chatter_1"
+      },
+      {
+        "name": "goblinraiders:chatter_2"
+      },
+      {
+        "name": "goblinraiders:chatter_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.chatter"
+  },
+  "ambient.goblin.coins": {
+    "sounds": [
+      {
+        "name": "goblinraiders:coins_1"
+      },
+      {
+        "name": "goblinraiders:coins_2"
+      },
+      {
+        "name": "goblinraiders:coins_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.coins"
+  },
+  "ambient.goblin.pipe": {
+    "sounds": [
+      {
+        "name": "goblinraiders:pipe_tune_1",
+        "volume": 0.8
+      },
+      {
+        "name": "goblinraiders:pipe_tune_2",
+        "volume": 0.8
+      },
+      {
+        "name": "goblinraiders:pipe_tune_3",
+        "volume": 0.8
+      },
+      {
+        "name": "goblinraiders:pipe_tune_4",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.pipe"
+  },
+  "ambient.goblin.birds": {
+    "sounds": [
+      {
+        "name": "goblinraiders:birds_1",
+        "volume": 0.6
+      },
+      {
+        "name": "goblinraiders:birds_2",
+        "volume": 0.6
+      },
+      {
+        "name": "goblinraiders:birds_3",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.birds"
+  },
+  "ambient.goblin.farm": {
+    "sounds": [
+      {
+        "name": "goblinraiders:farm_1"
+      },
+      {
+        "name": "goblinraiders:farm_2"
+      },
+      {
+        "name": "goblinraiders:farm_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.farm"
+  },
+  "ambient.goblin.bell": {
+    "sounds": [
+      {
+        "name": "goblinraiders:bell_1"
+      },
+      {
+        "name": "goblinraiders:bell_2"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.bell"
+  },
+  "ambient.goblin.crickets": {
+    "sounds": [
+      {
+        "name": "goblinraiders:crickets_1",
+        "volume": 0.6
+      },
+      {
+        "name": "goblinraiders:crickets_2",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.crickets"
+  },
+  "ambient.goblin.owl": {
+    "sounds": [
+      {
+        "name": "goblinraiders:owl_1",
+        "volume": 0.7
+      },
+      {
+        "name": "goblinraiders:owl_2",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.owl"
+  },
+  "ambient.goblin.mystic": {
+    "sounds": [
+      {
+        "name": "goblinraiders:chimes_1"
+      },
+      {
+        "name": "goblinraiders:chimes_2"
+      },
+      {
+        "name": "goblinraiders:chimes_3"
+      }
+    ],
+    "subtitle": "subtitles.goblinraiders.ambient.mystic"
+  }
+}
